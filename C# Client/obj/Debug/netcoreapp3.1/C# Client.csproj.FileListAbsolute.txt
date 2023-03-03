@@ -1,0 +1,13 @@
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\bin\Debug\netcoreapp3.1\C# Client.exe
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\bin\Debug\netcoreapp3.1\C# Client.deps.json
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\bin\Debug\netcoreapp3.1\C# Client.runtimeconfig.json
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\bin\Debug\netcoreapp3.1\C# Client.runtimeconfig.dev.json
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\bin\Debug\netcoreapp3.1\C# Client.dll
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\bin\Debug\netcoreapp3.1\C# Client.pdb
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\obj\Debug\netcoreapp3.1\C# Client.csprojAssemblyReference.cache
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\obj\Debug\netcoreapp3.1\C# Client.AssemblyInfoInputs.cache
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\obj\Debug\netcoreapp3.1\C# Client.AssemblyInfo.cs
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\obj\Debug\netcoreapp3.1\C# Client.csproj.CoreCompileInputs.cache
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\obj\Debug\netcoreapp3.1\C# Client.dll
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\obj\Debug\netcoreapp3.1\C# Client.pdb
+C:\Users\kamiw\Desktop\RANDOM\UNI WORK\Advanced Programming\Assignment\C# Client\obj\Debug\netcoreapp3.1\C# Client.genruntimeconfig.cache
